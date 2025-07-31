@@ -11,7 +11,7 @@ function App() {
 
       <div className="d-flex flex-grow-1">
         {/* Sidebar ด้านซ้าย */}
-        <Sidebar userName="Kamin" type = "admin"> </Sidebar>
+        <Sidebar userName="Kamin" type="admin"></Sidebar>
         {/* Main content */}
         <div className="container text-center">
           <main className="flex-grow-1 p-4">
